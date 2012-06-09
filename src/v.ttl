@@ -18,3 +18,12 @@
   rdfs:seeAlso <http://vocab.org/vann> ;
 .
 
+<http://v10s.org/void/>
+  dct:title "Vocabulary of Interlinked Datasets (VoID)"@en ;
+  dct:description "The Vocabulary of Interlinked Datasets (VoID) is an RDF Schema vocabulary for expressing metadata about RDF datasets. It is intended as a bridge between the publishers and users of RDF data, with applications ranging from data discovery to cataloging and archiving of datasets. This document provides a formal definition of the new RDF classes and properties introduced for VoID. It is a companion to the main specification document for VoID, <em><a href=\"http://www.w3.org/TR/void/\">Describing Linked Datasets with the VoID Vocabulary</a></em>."@en ;
+  vann:preferredNamespaceUri "http://rdfs.org/ns/void#" ;
+  vann:preferredNamespacePrefix "void" ;
+  foaf:primaryTopic <http://rdfs.org/ns/void#> ;
+  rdfs:seeAlso <http://vocab.deri.ie/void/> ;
+.
+
