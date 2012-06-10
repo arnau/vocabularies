@@ -17,5 +17,14 @@
   rdfs:seeAlso <http://www.dublincore.org/documents/dcmi-terms/> ;
 .
 
+<http://v10s.org/dctypes/>
+  dct:title "Dublin Core Types"@en ;
+  dct:description "RDF schemas for the collection of classes in the DCMI Type Vocabulary [DCMI-TYPE]."@en ;
+  vann:preferredNamespaceUri "http://purl.org/dc/dcmitype/" ;
+  vann:preferredNamespacePrefix "dctypes" ;
+  foaf:primaryTopic <http://purl.org/dc/dcmitype/> ;
+  rdfs:seeAlso <http://www.dublincore.org/documents/dcmi-terms/> ;
+.
+
 
 
