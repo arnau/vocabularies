@@ -26,5 +26,14 @@
   rdfs:seeAlso <http://www.dublincore.org/documents/dcmi-terms/> ;
 .
 
+<http://v10s.org/doap/>
+  dct:title "Description of a Project (DOAP) vocabulary"@en ;
+  dct:description "The Description of a Project (DOAP) vocabulary, described using W3C RDF Schema and the Web Ontology Language."@en ;
+  vann:preferredNamespaceUri "http://usefulinc.com/ns/doap#" ;
+  vann:preferredNamespacePrefix "doap" ;
+  foaf:primaryTopic <http://usefulinc.com/ns/doap#> ;
+  rdfs:seeAlso <https://github.com/edumbill/doap/> ;
+.
+
 
 
