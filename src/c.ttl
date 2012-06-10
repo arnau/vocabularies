@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/dcmitype/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://v10s.org/cube/>
+  dct:title "A Data Cube vocabulary"@en ;
+  dct:description "Vocabulary for multi-dimensional (e.g. statistical) data publishing"@en ;
+  vann:preferredNamespaceUri "http://purl.org/linked-data/cube#" ;
+  vann:preferredNamespacePrefix "qb" ;
+  foaf:primaryTopic <http://purl.org/linked-data/cube#> ;
+  rdfs:seeAlso <http://publishing-statistical-data.googlecode.com/svn/trunk/specs/src/main/html/cube.html> ;
+.
+
+
+
