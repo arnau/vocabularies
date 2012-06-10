@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/dcmitype/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://v10s.org/foaf/>
+  dct:title "Friend of a Friend (FOAF) vocabulary"@en ;
+  dct:description "The Friend of a Friend (FOAF) RDF vocabulary, described using W3C RDF Schema and the Web Ontology Language."@en ;
+  vann:preferredNamespaceUri "http://xmlns.com/foaf/0.1/" ;
+  vann:preferredNamespacePrefix "foaf" ;
+  foaf:primaryTopic <http://xmlns.com/foaf/0.1/> ;
+  rdfs:seeAlso <http://xmlns.com/foaf/spec/> ;
+.
+
+
+
