@@ -18,6 +18,15 @@
   rdfs:seeAlso <http://www.w3.org/TR/skos-reference/> ;
 .
 
+<http://v10s.org/sioc/>
+  dct:title "Semantically-Interlinked Online Communities"@en ;
+  dct:description "SIOC (Semantically-Interlinked Online Communities) is an ontology for describing the information in online communities. This information can be used to export information from online communities and to link them together. The scope of the application areas that SIOC can be used for includes (and is not limited to) weblogs, message boards, mailing lists and chat channels."@en ;
+  vann:preferredNamespaceUri "http://rdfs.org/sioc/ns#" ;
+  vann:preferredNamespacePrefix "sioc" ;
+  foaf:primaryTopic <http://rdfs.org/sioc/ns#> ;
+  rdfs:seeAlso <http://sioc-project.org/> ;
+.
+
 
 
 
