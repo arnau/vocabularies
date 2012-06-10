@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/dcmitype/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://v10s.org/org/>
+  dct:title "Organization ontology"@en ;
+  dct:description "Vocabulary for describing organizational structures, specializable to a broad variety of types of organization"@en ;
+  vann:preferredNamespaceUri "http://www.w3.org/ns/org#" ;
+  vann:preferredNamespacePrefix "org" ;
+  foaf:primaryTopic <http://www.w3.org/ns/org#> ;
+  rdfs:seeAlso <http://www.epimorphics.com/public/vocabulary/org.html> ;
+.
+
+
+ 
