@@ -25,6 +25,14 @@
   foaf:primaryTopic <http://rdfs.org/sioc/ns#> ;
   rdfs:seeAlso <http://sioc-project.org/> ;
 .
+<http://v10s.org/scovo/>
+  dct:title "The Statistical Core Vocabulary (SCOVO)"@en ;
+  dct:description "A vocabulary for representing statistical data on the Web."@en ;
+  vann:preferredNamespaceUri "http://purl.org/NET/scovo#" ;
+  vann:preferredNamespacePrefix "scv" ;
+  foaf:primaryTopic <http://purl.org/NET/scovo#> ;
+  rdfs:seeAlso <http://sw.joanneum.at/scovo/schema.html> ;
+.
 
 
 
